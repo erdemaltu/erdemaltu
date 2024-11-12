@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/erdemaltu/erdemaltu/blob/main/img/github-banner.jpg)
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+![](https://komarev.com/ghpvc/?username=erdemaltu&color=blue)
 <div align="center">
- <a href="https://github.com/CagatayAkkas">
+ <a href="https://github.com/erdemaltu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Erdem+Altuğ+Alaca+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
@@ -97,7 +97,7 @@
   
   
  <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erdemaltu&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/erdemaltu/github-readme-stats)
 -->
 
 
