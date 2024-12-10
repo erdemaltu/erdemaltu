@@ -11,9 +11,9 @@
 
 <h3 align="left">&nbsp; A passionate backend developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **NodeJS**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel** & **Django**
 
 - 📫 How to reach me **e-altug@hotmail.com**
 
